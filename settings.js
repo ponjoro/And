@@ -9,11 +9,11 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['254701309409','254725100848'] //['628','628'] 2 owner
+global.owner = ['255719921713'] //['628','628'] 2 owner
 global.packname = 'Lesta Whatsapp'
 global.author = 'Lesta_Eliud'
-global.botname = '___LESTA___Bot___'
-global.listprefix = ['+','!','.']
+global.botname = 'mandingo'
+global.listprefix = ['.']
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json' // Taruh url mongodb di sini jika menggunakan mongodb. Format : 'mongodb+srv://...'
 global.pairing_code = true
